@@ -1,0 +1,50 @@
+   80  cd Lab2_P2
+   81  cp /home/frondel1/public/RealEstate.csv .
+   82  nano
+   83  cp /home/frondel1/public/RealEstate.csv .
+   84  cd Lab2_P2/
+   85  cp /home/frondel1/public/RealEstate.csv .
+   86  ls
+   87  cat RealEstate.csv 
+   88  head RealEstate.csv 
+   89  wc RealEstate.csv 
+   90  man wc
+   91  wc -l RealEstate.csv 
+   92  man head
+   93  head -3 RealEstate.csv 
+   94  pwd
+   95  man cat
+   96  mkdir ../public
+   97  ls ..
+   98  man cp
+   99  cp RealEstate.csv ../public/myRealEstate.csv
+  100  ls ../public
+  101  head ../public/myRealEstate.csv 
+  102  pwd
+  103  ls /home/tmichaels/public
+  104  ls ~/tmichaels1/public
+  105  ls /home/tmichaels1/
+  106  ls /home/tmichaels1/public/
+  107  cd ../public/
+  108  man mkdir
+  109  mkdir -p {Regular,Submission/Lab{2,3}}
+  110  ls
+  111  ls Submission/
+  112  man mv
+  113  mv Regular Others
+  114  ls
+  115  cp ../Lab2_P2 ./Submission/Lab2
+  116  man cp
+  117  ls Submission/Lab2
+  118  ls ../
+  119  ls ../Lab2_P2/
+  120  cp -r ../Lab2_P2/ ./Submission/Lab2
+  121  tree public
+  122  ls ./Submission/Lab2
+  123  ls
+  124  rm -r ../Lab2_P2/
+  125  man history
+  126  history 1
+  127  history 5
+  128  cat history 50 > ./Submission/Lab2/Lab2_P2/Lab2_2.txt
+  129  history 50 > ./Submission/Lab2/Lab2_P2/Lab2_2.txt

@@ -1,0 +1,69 @@
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+Simplified parse tree
+
+S = sentence
+NP = noun phrase
+RC = relative clause
+VP = verb phrase
+PN = proper noun
+N = noun
+V = verb
+"Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a grammatically correct sentence in English, often presented as an example of how homonyms and homophones can be used to create complicated linguistic constructs through lexical ambiguity. It has been discussed in literature in various forms since 1967, when it appeared in Dmitri Borgmann's Beyond Language: Adventures in Word and Thought.
+
+The sentence employs three distinct meanings of the word buffalo:
+
+as a proper noun to refer to a specific place named Buffalo, the city of Buffalo, New York, being the most notable;
+as a verb (uncommon in regular usage) to buffalo, meaning "to bully, harass, or intimidate" or "to baffle"; and
+as a noun to refer to the animal, bison (often called buffalo in North America). The plural is also buffalo.
+An expanded form of the sentence which preserves the original word order is: "Buffalo bison that other Buffalo bison bully also bully Buffalo bison."
+
+
+Contents
+1	Sentence construction
+1.1	Usage
+2	Origin
+3	See also
+4	References
+5	External links
+Sentence construction
+
+Reed–Kellogg diagram of the sentence
+The sentence is unpunctuated and uses three different readings of the word "buffalo". In order of their first use, these are:
+
+a. a city named Buffalo. This is used as a noun adjunct in the sentence;
+n. the noun buffalo (American bison), an animal, in the plural (equivalent to "buffaloes" or "buffalos"), in order to avoid articles.
+v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate, or baffle.
+The sentence is syntactically ambiguous; however, one possible parse (marking each "buffalo" with its part of speech as shown above) would be as follows:
+
+     Buffaloa buffalon Buffaloa buffalon buffalov buffalov Buffaloa buffalon.
+
+When grouped syntactically, this is equivalent to: [(Buffalonian bison) (Buffalonian bison intimidate)] intimidate (Buffalonian bison).
+
+The sentence uses a restrictive clause, so there are no commas, nor is there the word "which," as in, "Buffalo buffalo, which Buffalo buffalo buffalo, buffalo Buffalo buffalo." This clause is also a reduced relative clause, so the word that, which could appear between the second and third words of the sentence, is omitted.
+
+An expanded form of the sentence which preserves the original word order is: "Buffalo bison, that other Buffalo bison bully, also bully Buffalo bison."
+
+Thus, the parsed sentence reads as a claim that bison who are intimidated or bullied by bison are themselves intimidating or bullying bison (at least in the city of Buffalo – implicitly, Buffalo, New York):
+
+Buffalo buffalo (the animals called "buffalo" from the city of Buffalo) [that] Buffalo buffalo buffalo (that the animals from the city bully) buffalo Buffalo buffalo (are bullying these animals from that city).
+[Those] buffalo(es) from Buffalo [that are intimidated by] buffalo(es) from Buffalo intimidate buffalo(es) from Buffalo.
+Bison from Buffalo, New York, who are intimidated by other bison in their community, also happen to intimidate other bison in their community.
+The buffalo from Buffalo who are buffaloed by buffalo from Buffalo, buffalo (verb) other buffalo from Buffalo.
+Buffalo buffalo (main clause subject) [that] Buffalo buffalo (subordinate clause subject) buffalo (subordinate clause verb) buffalo (main clause verb) Buffalo buffalo (main clause direct object).
+[Buffalo from Buffalo] that [buffalo from Buffalo] buffalo, also buffalo [buffalo from Buffalo].
+
+A diagram explaining the sentence
+
+Diagram using a comparison to explain the buffalo sentence
+Usage
+Thomas Tymoczko has pointed out that there is nothing special about eight "buffalos";[1] any sentence consisting solely of the word "buffalo" repeated any number of times is grammatically correct. The shortest is "Buffalo!", which can be taken as a verbal imperative instruction to bully someone ("[You] buffalo!") with the implied subject "you" removed,[2]:99–100, 104 or as a noun exclamation, expressing e.g. that a buffalo has been sighted, or as an adjectival exclamation, e.g. as a response to the question, "where are you from?" Tymoczko uses the sentence as an example illustrating rewrite rules in linguistics.[2]:104–105
+
+Origin
+The idea that one can construct a grammatically correct sentence consisting of nothing but repetitions of "buffalo" was independently discovered several times in the 20th century. The earliest known written example, "Buffalo buffalo buffalo buffalo", appears in the original manuscript for Dmitri Borgmann's 1965 book Language on Vacation, though the chapter containing it was omitted from the published version.[3] Borgmann recycled some of the material from this chapter, including the "buffalo" sentence, in his 1967 book, Beyond Language: Adventures in Word and Thought.[4]:290 In 1972, William J. Rapaport, now a professor at the University at Buffalo but then a graduate student at Indiana University, came up with versions containing five and ten instances of "buffalo".[5] He later used both versions in his teaching, and in 1992 posted them to the LINGUIST List.[5][6] A sentence with eight consecutive buffalos is featured in Steven Pinker's 1994 book The Language Instinct as an example of a sentence that is "seemingly nonsensical" but grammatical. Pinker names his student, Annie Senghas, as the inventor of the sentence.[7]:210
+
+Neither Rapaport, Pinker, nor Senghas were initially aware of the earlier coinages.[5] Pinker learned of Rapaport's earlier example only in 1994, and Rapaport was not informed of Borgmann's sentence until 2006.[5]
+
+Versions of the linguistic oddity can be constructed with other words which similarly simultaneously serve as collective noun, adjective, and verb, some of which need no capitalization (such as "police").[8]
